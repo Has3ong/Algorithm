@@ -1,6 +1,5 @@
 A = [0] * 8
 Use = [False] * 8
-
 def dfs(N, M, K):
     if K == M:
         string = ''

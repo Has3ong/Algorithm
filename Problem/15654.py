@@ -25,5 +25,4 @@ def solution():
             print(i)
     else:
         dfs(N, M, 0, Number)
-
 solution()

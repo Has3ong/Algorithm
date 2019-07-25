@@ -1,6 +1,6 @@
 # BaekJoon Online Judge
 
-<img width="400" src="https://user-images.githubusercontent.com/44635266/61845799-b179cb80-aedf-11e9-9ccf-518f5261e9b1.png">
+<img width="600" src="https://user-images.githubusercontent.com/44635266/61845799-b179cb80-aedf-11e9-9ccf-518f5261e9b1.png">
 
 #### Information
 * **수원대학교 컴퓨터학부 VR Lab실**
